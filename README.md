@@ -1,4 +1,5 @@
-# allthings-GO
+Allthings-GO
+
 Golang stuff
 
 
@@ -8,5 +9,6 @@ Golang stuff
 <br>sudo apt update </br>
 <br>sudo apt install golang-go</br>
 
-# Check Version 
+Check Version 
+
 <br>go version</br>

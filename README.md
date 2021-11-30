@@ -1,14 +1,14 @@
-Allthings-GO
+##Allthings-GO
+--------------
 
-Golang stuff
 
-
-<br>For fetching the latest version:</br>
+<br>## For fetching the latest version:</br>
 
 <br>sudo add-apt-repository ppa:longsleep/golang-backports </br>
 <br>sudo apt update </br>
 <br>sudo apt install golang-go</br>
 
-Check Version 
+##Check Version 
+----------------
 
 <br>go version</br>
